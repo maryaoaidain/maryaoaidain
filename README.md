@@ -61,6 +61,9 @@ A personal website showcasing all my work, designs, and photos.
 A full database system built using SQL + C++.
 
 ---
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=maryaoaidain&show_icons=true&theme=radical" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maryaoaidain&layout=compact&theme=radical" width="48%"/> </div>
+
 
 ## ✨ Animated Name GIF
 
